@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{DFF940A1-D3BD-369E-07AA-E115F2D4BB1A}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Score.cs">
+    <Files>
+      <File FileName="Assets/Scripts/WordGame.cs" Line="74" Column="58" />
+      <File FileName="Assets/Scripts/SceneLoader.cs" Line="12" Column="44" />
+      <File FileName="Assets/Scripts/Score.cs" Line="14" Column="13" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
